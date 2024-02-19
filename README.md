@@ -23,6 +23,7 @@ you can build executable file(exe ) with pyinstaller/pyinstaller ile çalıştı
 pyinstaller --noconsole --onefile survey.py
 
 </code>
+
 # Development /Geliştirme
 you can use virtual environment or directly which installed pip ,tkinter,ttbootstrap /sanal ortamı kullanabilir veya doğrudan pip, tkinter, ttbootstrap'ı yükleyebilirsiniz
 <code>
